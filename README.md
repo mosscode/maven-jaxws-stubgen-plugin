@@ -1,4 +1,4 @@
 maven-jaxws-stubgen-plugin
 ==========================
 
-A plugin for generating jaxws stubs
+A maven plugin for generating jaxws stubs
